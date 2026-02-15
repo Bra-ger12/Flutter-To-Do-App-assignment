@@ -21,3 +21,10 @@ Mobile Application Development
 5. Persist tasks locally so that closing the app does not erase the data
 6. At least 5 tasks in test demonstration
 
+## Instructions for running
+1. Make sure you have installed Flutter SDK, an Android Emulater and any IDE
+2. Clone the repository and navigate to the project folder
+3. Install dependecies
+4. Run the application
+
+
