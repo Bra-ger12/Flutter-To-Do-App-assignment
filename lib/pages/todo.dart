@@ -18,16 +18,16 @@ class TodoScreen extends StatefulWidget {
 }
 
 class _TodoScreenState extends State<TodoScreen> {
-  List<Task> tasks = []; // List to store tasks
+  List<Task> tasks = [];
   final TextEditingController controller = TextEditingController();
 
   @override
   void initState() {
     super.initState();
-    loadTasks(); // Load tasks when app starts
+    loadTasks();
   }
 
-  // Load tasks from SharedPreferences
+  // 🔹 LOAD TASKS
   Future<void> loadTasks() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
     List<String>? taskList = prefs.getStringList('tasks');
@@ -38,7 +38,6 @@ class _TodoScreenState extends State<TodoScreen> {
             taskList.map((task) => Task.fromMap(jsonDecode(task))).toList();
       });
     } else {
-      // For demo: add 5 default tasks
       tasks = [
         Task(title: "Study Flutter"),
         Task(title: "Do Assignment"),
@@ -46,11 +45,11 @@ class _TodoScreenState extends State<TodoScreen> {
         Task(title: "Practice Coding"),
         Task(title: "Prepare for Exam"),
       ];
-      saveTasks(); // Save default tasks
+      saveTasks();
     }
   }
 
-  // Save tasks to SharedPreferences
+  // 🔹 SAVE TASKS
   Future<void> saveTasks() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
     List<String> taskList =
