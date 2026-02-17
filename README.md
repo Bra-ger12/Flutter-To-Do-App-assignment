@@ -30,16 +30,16 @@ Screenshot/addTask.jpg
 ## App Screenshots
 
 ### Main Screen
-![Main Screen](screenshots/main_screen.png)
+![Main Screen](Screenshots/main_screen.jpg)
 
 ### Adding a Task
-![Add Task](screenshots/add_task.png)
+![Add Task](Screenshots/add_task.jpg)
 
 ### Completing a Task
-![Complete Task](screenshots/complete_task.png)
+![Complete Task](Screenshots/complete_task.jpg)
 
 ### Deleting a Task
-![Delete Task](screenshots/delete_task.png)
+![Delete Task](Screenshots/delete_task.jpg)
 
 
 
