@@ -27,6 +27,19 @@ Screenshot/addTask.jpg
 2. Clone the repository and navigate to the project folder
 3. Install dependecies
 4. Run the application
+## App Screenshots
+
+### Main Screen
+![Main Screen](screenshots/main_screen.png)
+
+### Adding a Task
+![Add Task](screenshots/add_task.png)
+
+### Completing a Task
+![Complete Task](screenshots/complete_task.png)
+
+### Deleting a Task
+![Delete Task](screenshots/delete_task.png)
 
 
 
