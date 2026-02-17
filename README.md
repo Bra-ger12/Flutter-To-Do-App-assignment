@@ -15,13 +15,10 @@ Mobile Application Development
 ## Project Description
  The application will allows users to:
 1. Add new tasks 
-![alt text](IMG-20260216-WA0284.jpg)
+Screenshot/addTask.jpg
 2. View the list of tasks  
-![alt text](IMG-20260216-WA0286.jpg)
 3. Mark tasks as complete
-![alt text](IMG-20260216-WA0283.jpg)
 4. Delete tasks 
-![alt text](IMG-20260216-WA0282.jpg)
 5. Persist tasks locally so that closing the app does not erase the data
 6. At least 5 tasks in test demonstration
 
