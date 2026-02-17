@@ -25,7 +25,8 @@ Mobile Application Development
 1. Make sure you have installed Flutter SDK, an Android Emulater and any IDE
 2. Clone the repository and navigate to the project folder
 3. Install dependecies
-4. Run the application
+4. Run the application (command: flutter run)
+5. Build APK (command: flutter apk)
 
 
 
