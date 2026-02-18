@@ -44,23 +44,23 @@ flutter run
 ## Screenshots
 
 ### 1. Main Screen with no Task
-![alt text](image.png)
+![alt text](assets/image.png)
 
 ### 1. Main Screen with Task
-![alt text](image-3.png)
+![alt text](assets/image-3.png)
 
 ### 2. Adding a Task
-![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](assets/image-4.png)
+![alt text](assets/image-5.png)
 
 ### 3. Edit a Task
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 
 ### 3. Completing a Task
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 
 ### 4. Deleting a Task
 
-![alt text](image-6.png)
+![alt text](assets/image-6.png)
 
 
